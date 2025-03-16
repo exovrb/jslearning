@@ -6,3 +6,8 @@ const myFunction = (a, b) => {
 }
 
 console.log(myFunction(5, 3))
+
+
+setTimeout(() => {
+    console.log('Отложенное сообщение')
+}, 1000)
