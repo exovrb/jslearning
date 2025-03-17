@@ -11,5 +11,5 @@ const sumPositiveNumbers = (a, b) => {
 }
 
 console.log(sumPositiveNumbers('a', true)) // первый if
-console.log(sumPositiveNumbers(-10, 5)) // второй id
+console.log(sumPositiveNumbers(-10, 5)) // второй if
 console.log(sumPositiveNumbers(3, 8)) // return a + b
